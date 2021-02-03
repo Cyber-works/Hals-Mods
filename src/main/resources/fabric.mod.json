@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "halstuff",
+  "version": "${version}",
+  "name": "Halstuff",
+  "description": "Biome Mod",
+  "authors": [
+    "Halux"
+  ],
+  "contact": {
+    "repo": "CyberBiomes-More"
+  },
+  "license": "MIT",
+  "icon": "assets/halstuff/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "cyberbiomesmore.halstuff.client.HalstuffClient"
+    ],
+    "main": [
+      "cyberbiomesmore.halstuff.Halstuff"
+    ]
+  },
+  "mixins": [
+    "halstuff.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.1",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}
