@@ -22,8 +22,6 @@ public class Halstuff implements ModInitializer {
 
     public static final PizzaBlock PIZZA_CHEESE = new PizzaBlock();
 
-    //public static final net.minecraft.block.Block CAKE = register("cake", new CakeBlock(net.minecraft.block.Block.Properties.create(Material.CAKE).hardnessAndResistance(0.5F).sound(SoundType.CLOTH)));
-
     @Override
     public void onInitialize() {
 
