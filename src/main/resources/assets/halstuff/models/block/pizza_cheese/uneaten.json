@@ -4,7 +4,7 @@
     "bottom": "halstuff:block/pizza_cheese/bottom",
     "top": "halstuff:block/pizza_cheese/top",
     "side": "halstuff:block/pizza_cheese/side",
-    "inside": "halstuff:block/pizza_cheese/inner"
+    "inside": "halstuff:block/pizza_cheese/side"
   },
   "elements": [
     {   "from": [ 1, 0, 1 ],
