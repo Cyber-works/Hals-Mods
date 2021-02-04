@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "bites=0": { "model": "halstuff:block/pizza_cheese/uneaten" },
+        "bites=1": { "model": "halstuff:block/pizza_cheese/slice1" },
+        "bites=2": { "model": "halstuff:block/pizza_cheese/slice2" },
+        "bites=3": { "model": "halstuff:block/pizza_cheese/slice3" },
+        "bites=4": { "model": "halstuff:block/pizza_cheese/slice4" },
+        "bites=5": { "model": "halstuff:block/pizza_cheese/slice5" },
+        "bites=6": { "model": "halstuff:block/pizza_cheese/slice6" }
+    }
+}
